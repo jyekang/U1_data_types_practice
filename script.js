@@ -11,7 +11,13 @@ console.log(`my favorite song is ${myFavoriteSong}`)
  *
  * Declare 3 variables using each of let, const, and var, then console.log each of them
  */
+let myFavoriteFood = "pasta"
+const yearBorn = 1990
+var weatherToday = "sunny"
 
+console.log(myFavoriteFood)
+console.log(yearBorn)
+console.log(weatherToday)
 /*
  * Prompt 3:
  *
